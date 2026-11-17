@@ -1,5 +1,7 @@
 # RafRadar
 
+<img src=".github/kapak.png" alt="RafRadar: digital shelf audit for Trendyol and N11. In the demo, none of the 36 multivitamin results show the brand." width="100%">
+
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](LICENSE)
 [![Commercial use: license required](https://img.shields.io/badge/Commercial%20use-license%20required-critical.svg)](COMMERCIAL.md)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
